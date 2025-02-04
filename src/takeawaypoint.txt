@@ -1,0 +1,19 @@
+Component = (custom Tag)
+
+Comp is fun whose 1st letter must be capital
+it must return only one wrapper
+call compnent like calling div,p
+
+
+props
+     value  passed to component is called props
+     pass:
+        props in opening Tag
+     while passing: if props is other than string.. use {}
+     get:
+        while get always use {}
+
+
+usestate
+counter example
+show and hide image
